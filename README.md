@@ -4,11 +4,6 @@
 This React application demonstrates the effective use of Redux for state management. It covers fundamental Redux concepts like reducers, actions, selectors, and middleware while building a functional dashboard with features like user authentication, notifications, and course management.
 
 
-## Live Demo
-
-Check out the live demo of my portfolio [here](https://portfolio.phaedrusstudios.com/).
-
-
 ## Features
 
 - **Redux Implementation:** Utilizes Redux for efficient state management, including reducers, actions, and selectors.
